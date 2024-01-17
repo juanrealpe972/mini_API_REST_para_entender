@@ -1,0 +1,19 @@
+# .gitignore
+*.log
+node_modules/
+
+# .gitignore
+*.log
+node_modules/
+*~
+*.class
+*.dll
+*.exe
+*.o
+*.so
+.vs/
+.DS_Store
+*~
+*.swp
+.#*
+.vscode/
